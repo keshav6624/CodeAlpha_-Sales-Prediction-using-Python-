@@ -29,4 +29,5 @@ To analyze historical sales data and forecast future sales using regression and/
    ```bash
    pip install -r requirements.txt
 3. use streamlit run command
-DEPLOYED LINK : 
+
+DEPLOYED LINK : https://salespredictor.streamlit.app/
